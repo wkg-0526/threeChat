@@ -1,5 +1,5 @@
 module.exports = {
-  path: "../../static/faces",
+  path: "../../chat/faces",
   obj: {
     "[):]": "ee_1.png",
     "[:D]": "ee_2.png",

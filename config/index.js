@@ -15,7 +15,7 @@ const path = require("path");
 module.exports = {
   dev: {
     // Paths
-    assetsSubDirectory: "static",
+    assetsSubDirectory: "chat",
     assetsPublicPath: "/",
     proxyTable: {
       disableHostCheck: true,

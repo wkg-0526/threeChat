@@ -516,7 +516,7 @@ export default {
 
     customEmoji(value) {
       console.log(value, 11);
-      return `<img src="../../../static/faces/${value}" style="width:20px"/>`;
+      return `<img src="/chat/chat/faces/${value}" style="width:20px"/>`;
       // ../../../static/faces/${value}
     },
 
